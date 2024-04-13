@@ -8,16 +8,17 @@ The trunk of the tree will house all of hackclub's core values (Like social codi
 ### Some technical hoo-ha:
 Will be two major releases:
 
-First release:
+### First release:
 Design and Branding:
 - Tree design
 - branch design
 - nutshell art
+
 Generative Tree functionality 
 - adding new branches (maybe focus each branch on a country then state, city?)
 - Adding nutshells to each branch
 
-Second release:
+### Second release:
 Nutshell functionality:
 - Uploading images, documents and videos to it
 - Some kind of passkey system to access it
