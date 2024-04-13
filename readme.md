@@ -7,6 +7,7 @@ The trunk of the tree will house all of hackclub's core values (Like social codi
 
 ### Some technical hoo-ha:
 Will be two major releases:
+
 First release:
 Generative Tree functionality 
 - adding new branches (maybe focus each branch on a country then state, city?) 
