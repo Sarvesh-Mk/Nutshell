@@ -24,3 +24,5 @@ Nutshell functionality:
 - Some kind of passkey system to access it
 - Database to store and reference everything
 - Create a refined **nutshell editor** so that clubs can put pictures/documents/memories of clubs
+
+## This will probably not be done linear and I will jump around
