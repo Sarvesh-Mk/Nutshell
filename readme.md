@@ -9,8 +9,12 @@ The trunk of the tree will house all of hackclub's core values (Like social codi
 Will be two major releases:
 
 First release:
+Design and Branding:
+- Tree design
+- branch design
+- nutshell art
 Generative Tree functionality 
-- adding new branches (maybe focus each branch on a country then state, city?) 
+- adding new branches (maybe focus each branch on a country then state, city?)
 - Adding nutshells to each branch
 
 Second release:
@@ -18,3 +22,4 @@ Nutshell functionality:
 - Uploading images, documents and videos to it
 - Some kind of passkey system to access it
 - Database to store and reference everything
+- Create a refined **nutshell editor** so that clubs can put pictures/documents/memories of clubs
